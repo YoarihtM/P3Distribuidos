@@ -1,4 +1,4 @@
-AVISO -------------------------------------------------------------------
+AVISO -------------------------------------------------------------------\n
 La práctica está incompleta, hace falta revisar algunas fallas respecto a la conexión con el servidor y el servidor de respaldo
 ya que durante la conexión si uno de los dos servidores está conectado, falta que los datos se almacenen en una de las dos bases de datos
 pero si ambos están conectados, los datos se almacenan en orden distinto y ambos servidores responden a las peticiones de los clientes al
